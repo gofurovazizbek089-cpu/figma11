@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Geologica:wght,CRSV@100..900,0&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Unbounded:wght@200..900&display=swap');
+
+@theme {
+    --font-Inter: "Inter", sans-serif; 
+  }
+
+
+  .btn-turbo-glow {
+    box-shadow:
+      0px 0px 120px 0px #8B5CF666,
+      0px 0px 80px 0px  #8B5CF699,
+      0px 0px 40px 0px  #8B5CF6CC;
+  }
+  
+
+@import "tailwindcss";
