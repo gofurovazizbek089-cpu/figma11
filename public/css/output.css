@@ -312,8 +312,17 @@
   .max-w-284 {
     max-width: calc(var(--spacing) * 284);
   }
+  .max-w-\[27\] {
+    max-width: 27;
+  }
   .max-w-\[212px\] {
     max-width: 212px;
+  }
+  .max-w-\[272\] {
+    max-width: 272;
+  }
+  .max-w-\[272px\] {
+    max-width: 272px;
   }
   .max-w-\[752px\] {
     max-width: 752px;
